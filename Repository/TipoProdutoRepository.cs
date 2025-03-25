@@ -18,7 +18,7 @@ namespace SmartCity.Repository
             using (OracleConnection connection = new OracleConnection(connectionString))
             {
                 String query =
-                    "SELECT IDTIPO, DESCRICAOTIPO, COMERCIALIZADO FROM TIPOPRODUTO  ";
+                    "SELECT IDTIPO, DESCRICAOTIPO, COMERCIALIZADO FROM TIPOPRODUTO ";
 
                 OracleCommand command = new OracleCommand(query, connection);
                 connection.Open();

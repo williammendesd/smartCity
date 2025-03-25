@@ -16,6 +16,8 @@ namespace SmartCity.Controllers
             tipoProdutoRepository = new TipoProdutoRepository();
         }
 
+    [Filters.LogFilter]
+        [HttpGet]
         public IActionResult Index()
         {
             // Criando o atributo da lista - COLLECTIONS

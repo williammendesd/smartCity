@@ -43,3 +43,4 @@ C:\Users\duart\source\repos\SmartCity\bin\Debug\net8.0\runtimes\osx\lib\net8.0\S
 C:\Users\duart\source\repos\SmartCity\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\duart\source\repos\SmartCity\obj\Debug\net8.0\SmartCity.csproj.AssemblyReference.cache
 C:\Users\duart\source\repos\SmartCity\obj\Debug\net8.0\SmartCity.csproj.Up2Date
+C:\Users\duart\source\repos\SmartCity\obj\Debug\net8.0\SmartCity.sourcelink.json
