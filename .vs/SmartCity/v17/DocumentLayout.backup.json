@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\duart\\source\\repos\\SmartCity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\controllers\\tipoprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:controllers\\tipoprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\repository\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:repository\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:repository\\tipoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\models\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:models\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\controllers\\tipoprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:controllers\\tipoprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|c:\\users\\duart\\source\\repos\\smartcity\\views\\tipoproduto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D66EE4-9A9D-4CEE-8085-B50AF67CC264}|SmartCity.csproj|solutionrelative:views\\tipoproduto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LogFilter.cs",
               "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Filters\\LogFilter.cs",
               "RelativeDocumentMoniker": "Filters\\LogFilter.cs",
               "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Filters\\LogFilter.cs",
               "RelativeToolTip": "Filters\\LogFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T23:23:18.59Z",
+              "WhenOpened": "2025-04-24T01:11:07.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TipoProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\TipoProdutoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TipoProdutoController.cs",
-              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\TipoProdutoController.cs",
-              "RelativeToolTip": "Controllers\\TipoProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Repository\\Context\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Context\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Repository\\Context\\DatabaseContext.cs",
+              "RelativeToolTip": "Repository\\Context\\DatabaseContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:32:29.109Z",
+              "WhenOpened": "2025-04-24T00:59:48.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Views\\TipoProduto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoProduto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Views\\TipoProduto\\Cadastrar.cshtml",
+              "RelativeToolTip": "Views\\TipoProduto\\Cadastrar.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T00:54:23.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "TipoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\TipoProduto.cs",
+              "RelativeDocumentMoniker": "Models\\TipoProduto.cs",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\TipoProduto.cs",
+              "RelativeToolTip": "Models\\TipoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:26:22.407Z"
+              "WhenOpened": "2025-04-24T00:24:08.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "TipoProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\TipoProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoProdutoController.cs",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Controllers\\TipoProdutoController.cs",
+              "RelativeToolTip": "Controllers\\TipoProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:18:50.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TipoProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Repository\\TipoProdutoRepository.cs",
               "RelativeDocumentMoniker": "Repository\\TipoProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Repository\\TipoProdutoRepository.cs*",
-              "RelativeToolTip": "Repository\\TipoProdutoRepository.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBcAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Repository\\TipoProdutoRepository.cs",
+              "RelativeToolTip": "Repository\\TipoProdutoRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwFsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T13:22:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:11:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\duart\\source\\repos\\SmartCity\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:11:44.29Z",
               "EditorCaption": ""
             }
           ]
